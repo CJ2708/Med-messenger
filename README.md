@@ -1,3 +1,7 @@
+# About Me
+Hi ,
+My name is Chahat Jain. I am currently pursuing my bachelor's in computer science from IIT ISM DHANBAD. 
+
 
 # Med-Messenger
 
